@@ -1,0 +1,24 @@
+{
+  "name": "kirandangol-portfolio",
+  "version": "0.0.1",
+  "description": "kiran-dangolk.com",
+  "main": "(server.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangolk/Personal-Website.git"
+  },
+  "author": "\"Kiran Dangol <kiran_dan2009@yahoo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dangolk/Personal-Website/issues"
+  },
+  "homepage": "https://github.com/dangolk/Personal-Website#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
